@@ -42,8 +42,8 @@ Payments in example should do the following if send in order they are numbered:
 16. decline InsufficientFunds
 17. accept
 18. accept
-19. decline TransactionAmountOverLimit
-20. decline TransactionAmountOverLimit 
+19. decline TransactionCountOverLimit
+20. decline TransactionCountOverLimit 
 
 
 Remaining amounts on account should be following:
