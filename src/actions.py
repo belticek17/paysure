@@ -1,7 +1,7 @@
 from orinoco.entities import ActionConfig, Signature
 from orinoco.typed_action import TypedAction
 
-from src.weather_prediction.weather_prediction import DummyWeatherModel
+from weather_prediction.weather_prediction import DummyWeatherModel
 
 
 class GetWeatherInformation(TypedAction):

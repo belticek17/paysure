@@ -1,8 +1,8 @@
 import unittest
 from datetime import date
 
-from src.weather_prediction.weather_prediction import DummyWeatherModel
-from src.actions import GetWeatherInformation
+from weather_prediction.weather_prediction import DummyWeatherModel
+from actions import GetWeatherInformation
 
 
 class WeatherInformationTestCase(unittest.TestCase):
