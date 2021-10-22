@@ -1,6 +1,6 @@
 ##  Hiring project
 
-The goal  of this assignment is to assess candidates skills as well as dive slightly into solving problems that  occur during day to day work. The idea behind is to invest one or two hours into trying to solve this assignment and see where you can get.
+The goal  of this assignment is to assess candidates skills as well as dive slightly into solving problems that occur during our day to day work. The idea is to start by implementing the first rule, then try add the remaining rules. Invest one to two hours into trying to solve the assignment and see where you can get.
 
 
 ## Task
@@ -24,6 +24,7 @@ https://orinoco.readthedocs.io/en/latest/
 You can use pre-defined action for weather information.
 
 Payments in example should do the following if send in order they are numbered:
+
 1. accept
 2. decline InsufficientFunds
 3. decline TransactionAmountOverLimit
